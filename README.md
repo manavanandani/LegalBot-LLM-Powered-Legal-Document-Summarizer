@@ -229,18 +229,3 @@ Visit [http://localhost:8501](http://localhost:8501)
 
 This project is licensed under the **MIT License**. See `LICENSE` for details.
 
-```
-
----
-
-### ✅ What’s Next?
-
-Let me know if you’d like:
-
-- The full Python source code files (`main.py`, `query_engine.py`, etc.)
-- The `Dockerfile`, `docker-compose.yml`, and `requirements.txt`
-- A `.zip` export of the full repo
-- Visual assets like architecture diagrams or UI screenshots
-
-Just say the word!
-```
